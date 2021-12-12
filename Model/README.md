@@ -1,5 +1,7 @@
 # Model
 
+We added here the screenshot of the algorithms, complete code can be seen in code section
+
 1. Logistic Regression (Scikit-learn)
 2. Naive Bayes (Scikit-learn)
 3. Support Vector Machine (Linear) (Scikit-learn)
